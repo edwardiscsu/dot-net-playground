@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPlayground", "DotNetPlayground\DotNetPlayground.csproj", "{AAABD413-5F02-4741-92A4-07328BFEB80E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetPlayground.Tests", "DotNetPlayground.Tests\DotNetPlayground.Tests.csproj", "{A07C1491-3832-44AC-B9BA-F9A01E7DB71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAABD413-5F02-4741-92A4-07328BFEB80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAABD413-5F02-4741-92A4-07328BFEB80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAABD413-5F02-4741-92A4-07328BFEB80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAABD413-5F02-4741-92A4-07328BFEB80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07C1491-3832-44AC-B9BA-F9A01E7DB71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07C1491-3832-44AC-B9BA-F9A01E7DB71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07C1491-3832-44AC-B9BA-F9A01E7DB71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07C1491-3832-44AC-B9BA-F9A01E7DB71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
